@@ -1,0 +1,1 @@
+list1.remove(4)
